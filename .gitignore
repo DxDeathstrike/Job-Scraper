@@ -1,0 +1,26 @@
+# folder to ignore
+old/
+test/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python files
+*.py
+
+# Text files
+*.txt
+
+# Spec files
+*.spec
