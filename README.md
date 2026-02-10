@@ -9,8 +9,7 @@ JobScrapper is a Python-based job search automation tool that allows users to se
 **Note:** The selling or sharing of this code without direct permission is prohibited and will be met with consequences.
 **Note:** The source code for this script will not be made publicly available; however, script is usable by exe.
 
-my image
-
+![job-scraper](https://github.com/user-attachments/assets/ce8232be-b7c1-403a-8007-bf8604149168)
 
 **Warning:** This tool is intended for educational and research purposes only. The author does not encourage or endorse misuse. By using this tool, you accept full responsibility for your actions and compliance with job board terms of service and applicable laws. The author is not liable for any consequences, including account bans or legal issues. Use at your own risk.
 
@@ -88,18 +87,18 @@ Indeed supports most countries, you can specify the following countries when sea
 |                      |              |            |                |
 |----------------------|--------------|------------|----------------|
 | Argentina            | Australia    | Austria    | Bahrain        |
-| Belgium*             | Brazil       | Canada     | Chile          |
+| Belgium              | Brazil       | Canada     | Chile          |
 | China                | Colombia     | Costa Rica | Czech Republic |
 | Denmark              | Ecuador      | Egypt      | Finland        |
-| France*              | Germany      | Greece     | Hong Kong      |
-| Hungary              | India        | Indonesia  | Ireland*       |
+| France               | Germany      | Greece     | Hong Kong      |
+| Hungary              | India        | Indonesia  | Ireland        |
 | Israel               | Italy        | Japan      | Kuwait         |
 | Luxembourg           | Malaysia     | Mexico     | Morocco        |
-| Netherlands          | New Zealand* | Nigeria    | Norway         |
+| Netherlands          | New Zealand  | Nigeria    | Norway         |
 | Oman                 | Pakistan     | Panama     | Peru           |
 | Philippines          | Poland       | Portugal   | Qatar          |
 | Romania              | Saudi Arabia | Singapore  | South Africa   |
-| South Korea          | Spain*       | Sweden     | Switzerland*   |
+| South Korea          | Spain        | Sweden     | Switzerland    |
 | Taiwan               | Thailand     | Turkey     | Ukraine        |
 | United Arab Emirates | UK           | USA        | Uruguay        |
 | Venezuela            | Vietnam      |            |                |
