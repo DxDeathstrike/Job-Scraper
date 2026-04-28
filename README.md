@@ -48,7 +48,7 @@ Most requirements are pre-installed, but if errors occur, install the following:
 ## Usage
 1. Download the files from the repository.
 2. Double click `jobscrapper.exe` to launch, or run the script with Python.
-3. Enter the job title, city, country, job type, number of results, and job posting age when prompted.
+3. Enter the job title, city, country, job type, distance, number of results, and job posting age when prompted.
 4. The script will search supported job boards and export results to a excel file(CSV).
 5. Progress and status messages will be printed in the terminal.
 
